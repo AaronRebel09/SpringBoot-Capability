@@ -18,6 +18,13 @@ CHANGELOG
 ================================================================================
 This project is using [Semantic Versioning 2.0.0](http://semver.org/)
 
-## v0.0.1
- - Release : basic java springboot mvc openfeign
+## v1.0.1
+- Release : added OpenApi documentation
+
+### New Features
+- Documentation: add swagger api definition for get list of active users 
+
+## v1.0.0
+ - Release : basic springboot mvc openfeign
+ 
  ================================================================================
