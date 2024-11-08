@@ -18,6 +18,12 @@ CHANGELOG
 ================================================================================
 This project is using [Semantic Versioning 2.0.0](http://semver.org/)
 
+## Unreleased
+- Exception Handler with Controller Advice 
+
+## v1.0.2
+- Release: laboratorie about swagger code gen added jar utility cli
+
 ## v1.0.1
 - Release : added OpenApi documentation
 
