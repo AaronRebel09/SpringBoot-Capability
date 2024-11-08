@@ -1,5 +1,7 @@
 package com.example.demousers.controller;
 
+import com.example.demousers.exception.CustomException;
+import com.example.demousers.exception.GlobalExceptionHandler;
 import com.example.demousers.model.User;
 import com.example.demousers.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -16,7 +18,7 @@ public class UserController {
     private UserService userService;
 
     @GetMapping("/active")
-    public List<User> getActiveUsers(){
+    public List<User> getActiveUsers() {
         return userService.getActiveUsers();
     }
 
