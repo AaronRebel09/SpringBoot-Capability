@@ -1,6 +1,8 @@
 package com.example.demousers.service;
 
 import com.example.demousers.client.UserClient;
+import com.example.demousers.exception.CustomException;
+import com.example.demousers.exception.GlobalExceptionHandler;
 import com.example.demousers.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
