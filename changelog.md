@@ -20,6 +20,9 @@ This project is using [Semantic Versioning 2.0.0](http://semver.org/)
 
 ## Unreleased
 
+## v1.2.0
+- Release : spring profiles environment
+
 ## v1.1.1
 - Release : Unit Test implementation for user endpoint
 
