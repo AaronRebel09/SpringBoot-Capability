@@ -20,6 +20,9 @@ This project is using [Semantic Versioning 2.0.0](http://semver.org/)
 
 ## Unreleased
 
+## v1.1.1
+- Release : Unit Test implementation for user endpoint
+
 ## v1.1.0
 - Release : Exception Handler with Controller Advice 
 
